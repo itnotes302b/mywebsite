@@ -3,9 +3,10 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 # baseURL = "https://your_domain.com/"
+baseURL = "https://profound-wisp-f5e9bd.netlify.app/"
 defaultContentLanguage = "en"
 
-baseURL = 'http://example.org/'
+#baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
