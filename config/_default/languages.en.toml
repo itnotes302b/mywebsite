@@ -6,17 +6,17 @@ weight = 1
 rtl = false
 
 title = "Nullblocks"
-# logo = "img/logo.jpg"
+ #logo = "img/logo.png"
  description = "My awesome website"
- copyright = "Copy, _right?_ :thinking_face:"
+ #copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2 January 2006"
 
 [author]
-  #name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
-  # bio = "A little bit about you"
+  name = "Pranjal "
+  image = "img/author.jpg"
+  headline = "I'm human may be "
+  #bio = "A little bit about you"
   # links = [
   #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
