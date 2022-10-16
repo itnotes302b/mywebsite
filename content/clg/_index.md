@@ -19,3 +19,8 @@ CN
  9th [FTP](https://0x0.st/ov3m.pdf)
  
  10th [Telnet](https://0x0.st/ovAT.pdf)
+
+
+DWM 
+
+EXP6 [WEKA](https://0x0.st/owsq.pdf)
