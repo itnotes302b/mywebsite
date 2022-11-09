@@ -6,12 +6,13 @@
 
 [Indexpage](https://0x0.st/owsM.pdf)
 
-PCE 
 
- [MOM](https://0x0.st/oxrU.pdf)
- [Coverletter](https://0x0.st/oxrn.pdf)
 
 CN 
+ 
+ 2nd [N/w command](https://0x0.st/o6sT.docx.pdf)
+ 
+ 3rd [cisco](https://0x0.st/o6sm.doc.pdf)
  
  4th [Network Topology](https://0x0.st/ov3S.pdf)
  
@@ -19,11 +20,6 @@ CN
  
  6yh [ALOHA](https://0x0.st/ovnr.pdf)
   
- 9th [FTP](https://0x0.st/ov3m.pdf)
+ 9th [FTP](https://0x0.st/o6sb.pdf)
  
 
-
-
-DWM 
-
-EXP6 [WEKA](https://0x0.st/owsq.pdf)
