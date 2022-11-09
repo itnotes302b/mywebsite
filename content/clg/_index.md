@@ -17,8 +17,6 @@ CN
  4th [Network Topology](https://0x0.st/ov3S.pdf)
  
  5th [Wireshark](https://0x0.st/ov3a.pdf)
- 
- 6yh [ALOHA](https://0x0.st/ovnr.pdf)
   
  9th [FTP](https://0x0.st/o6sb.pdf)
  
