@@ -17,9 +17,9 @@ dateFormat = "2 January 2006"
   #image = "img/author.jpg"
   #headline = "I'm human may be "
   #bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
-  #   { link = "https://link-to-some-website.com/" },
+   links = [
+     { email = "mailto:hello@your_domain.com" },
+     { link = "http://test.nullblocks.co/clg/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
   #   { blogger = "https://username.blogspot.com/" },
@@ -59,4 +59,4 @@ dateFormat = "2 January 2006"
   #   { twitter = "https://twitter.com/username" },
   #   { whatsapp = "https://wa.me/phone-number" },
   #   { youtube = "https://youtube.com/username" },
-  # ]
+   ]
