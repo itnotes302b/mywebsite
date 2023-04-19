@@ -27,7 +27,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Clg Stuff"
+  name = "Install Dolphin"
   pageRef = "clg"
   weight = 30
 
