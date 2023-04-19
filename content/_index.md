@@ -4,7 +4,7 @@ description: "This is a demo of adding content to the homepage."
 ---
 Welcome to my website! I'm really happy you stopped by.
 
-![Alt text](https://i.redd.it/qwhjslv8uh831.jpg "Title ")
+![Alt text](https://i.redd.it/qwhjslv8uh831.jpg width="600" height="300" "Title ")
 
 
 Hope to see you soon !!!
