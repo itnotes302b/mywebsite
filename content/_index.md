@@ -53,8 +53,8 @@ Click the number
 
 
 
-Hope to see you soon !!!
-Welcome to my website! I'm really happy you stopped by.
+<!-- Hope to see you soon !!! -->
+<!-- Welcome to my website! I'm really happy you stopped by. -->
 
 
 
